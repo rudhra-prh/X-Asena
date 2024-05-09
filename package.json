@@ -1,6 +1,6 @@
 {
   "name": "x-asena",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Whatsapp Bot",
   "main": "index.js",
   "directories": {
@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/X-Electra/X-Asena.git"
+    "url": "git+https://github.com/rudhra-prh/X-Asena.git"
   },
   "keywords": [
     "bot",
